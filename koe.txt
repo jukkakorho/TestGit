@@ -1,0 +1,3 @@
+git status
+git add tiedosto.txt
+git commit tiedosto.txt -m muutos
