@@ -1,0 +1,4 @@
+1. Luodaan hakemistosta paikallinen git-repositorio antamalla komento git init
+2. Tilan tarkistaminen git status
+3. Lis‰t‰‰n git add
+3. Commitoidaan git commit -m "xxx.xxx luotu"
